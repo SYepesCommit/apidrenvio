@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67b6997bf82234221bcd676a"
+  },
+  "userId": {
+    "$oid": "67b69937f82234221bcd675b"
+  },
+  "articleId": {
+    "$oid": "6750ef7cfce1f2f80959a98b"
+  },
+  "specialPrice": 1200
+},
+{
+  "_id": {
+    "$oid": "67b69c20f82234221bcd676c"
+  },
+  "userId": {
+    "$oid": "67b69937f82234221bcd675b"
+  },
+  "articleId": {
+    "$oid": "67b657c5c5edce9a2a294041"
+  },
+  "specialPrice": 2000
+}]
